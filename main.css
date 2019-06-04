@@ -1,7 +1,17 @@
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: cornsilk;
+}
+
 nav{
     background-color: coral;
 }
 
 li {
     display: inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: inherit;
+    font-size: 100%;
 }
